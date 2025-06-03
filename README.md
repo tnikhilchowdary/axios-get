@@ -1,7 +1,6 @@
-echo "# Axios GET Example\n\nThis React app fetches user data using Axios and displays it in a list." > README.md
-git add README.md
-git commit -m "Added README"
-git push
+# Axios GET Example
+
+This React app fetches user data using Axios from a public API and displays it in a list.
 
 ## Screenshot
 
